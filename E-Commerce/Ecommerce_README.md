@@ -99,6 +99,7 @@ Reorder your spreadsheet tabs:
 - Conversion funnel
 - Retention rate analysis
 - Executive-ready documentation and formatting
+- <a href="https://docs.google.com/spreadsheets/d/1t0mBmjcJwDonWfjLG-JDZcTv5spIrixuJPASA7NnS48/edit?usp=sharing">E-Commerce Link </a>
 
 ---
 
